@@ -104,19 +104,20 @@ export default function App() {
 
         {/* MESSAGE */}
         <p
-          style={{
-            color: "#444",
-            lineHeight: "1.6",
-            fontSize: "16px",
-            marginBottom: "25px",
-          }}
-        >
-          <strong>Our website is currently under construction.</strong>
-          <br />
-          We’re building a faster, smarter and more secure digital experience.
-          <br />
-          Please check back soon.
-        </p>
+  style={{
+    color: "#444",
+    lineHeight: "1.6",
+    fontSize: "16px",
+    marginBottom: "25px",
+  }}
+>
+  <strong>Our website is currently being upgraded.</strong>
+  <br />
+  We’re enhancing our platform to deliver a faster, smarter and more secure experience.
+  <br />
+  All Curianet services remain fully operational during this update.
+</p>
+
 
         {/* CONTACT */}
         <div style={{ color: "#555", fontSize: "14px", lineHeight: "1.5" }}>
